@@ -15,6 +15,43 @@
 * **Analysis Tools**: Functions for processing gravitational lensing light-curves.
 * **Modern Workflow**: Full support for `uv`, `pip`, and type-hinting for high-performance research.
 
+
+## Roadmap & Feature Status
+
+> **Legend:**
+> - ✅ **Completed**: Stable and available in the current version.
+> - 🏗️ **In Progress**: Actively being developed in the `main` or `dev` branch.
+> - 📅 **Planned**: On the radar for future releases.
+
+### OGLE I
+
+| Feature               |   Status   | Priority |
+|:----------------------|:----------:|:--------:|
+| **Multiple Features** | 📅 Planned |   Low    |
+
+### OGLE II
+| Feature                                   |     Status      | Priority |
+|:------------------------------------------|:---------------:|:--------:|
+| **Basic Data Fetching** (ASCII/Text)      |   ✅ Completed   |   High   |
+| **Astropy/Pandas Integration**            | 🏗️ In Progress |   High   |
+| **Interactive Light-Curve Plotting**      | 🏗️ In Progress |  Medium  |
+| **Automated Event Classification**        |   📅 Planned    |  Medium  |
+| **Cross-matching with Gaia DR3**          |   📅 Planned    |   Low    |
+| **API Support for OGLE-IV Early Warning** |   📅 Planned    |   High   |
+
+### OGLE III
+
+| Feature               |   Status   | Priority |
+|:----------------------|:----------:|:--------:|
+| **Multiple Features** | 📅 Planned |   Low    |
+
+### OGLE IV
+
+| Feature               |   Status   | Priority |
+|:----------------------|:----------:|:--------:|
+| **Multiple Features** | 📅 Planned |   Low    |
+
+
 ## Installation
 
 Install the stable version from [PyPI](https://pypi.org/project/ogle/):
