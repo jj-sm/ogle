@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ogle Python Pakcage
+title: ogle Python Package
 message: ogle is a Python package helps users to manage and interact with OGLE (Optical Gravitational Lensing Experiment) data.
 type: software
 authors:

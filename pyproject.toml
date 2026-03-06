@@ -25,7 +25,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/jj-sm/ogle"
+Homepage = "https://docs.jjsm.science/ogle"
 Repository = "https://github.com/jj-sm/ogle"
 Issues = "https://github.com/jj-sm/ogle/issues"
 
